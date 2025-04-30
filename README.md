@@ -7,7 +7,6 @@ Este repositório contém um script PowerShell (`winget.ps1`) com menu interativ
 - Menu de seleção por categoria (Desenvolvimento, Utilitários, Navegadores, etc)
 - Instalação automatizada e silenciosa dos programas selecionados
 - Verificação se o pacote está disponível antes da instalação
-- Suporte ao **WhatsApp Desktop via Microsoft Store**
 
 ## 📦 Softwares incluídos
 
